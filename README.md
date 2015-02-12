@@ -1,0 +1,1 @@
+A guide on how to write a research document provided for students of the Systems and Software Engineering Group.
