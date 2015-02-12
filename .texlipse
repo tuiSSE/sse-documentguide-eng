@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Feb 12 11:32:33 CET 2015
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=.tmp
+mainTexFile=sse-documentguide-eng.tex
+outputFile=sse-documentguide-eng.pdf
+langSpell=en
+markDer=true
+srcDir=
